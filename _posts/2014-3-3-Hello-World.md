@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Güzel Bir Yıl Dileğiyle
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+2018 yılını bitirirken toplanan umutlar malesef 2019 yılında biraz daha büyüyecek. Aslında buna hepimiz alışığız. Alışık olmadığımız tek şey hayallerimizin gerçekleşmesi. Mutlu hayaller içerisinde mutlu yıllar diliyorum dünya canlılarına.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![_config.yml]({{ site.baseurl }}/https://www.irishcentral.com/uploads/article/57319/cropped_nye_2019.jpg?t=1546034321)
